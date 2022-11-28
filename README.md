@@ -24,4 +24,4 @@ npx cypress open
 > Reports .mp4  estarão disponíveis na pasta `videos`
 
 ### Análise dos cenários
-> Como os endpoint que recebem formulário aceita quase qualquer conteudo no body, não dava para fazer cenários de funcionalidade inválidando algum desses campos, os cenários inserido foram os que julguei passiveis de contrato negativo.
+> Como os endpoint que recebem formulário aceitam quase qualquer conteudo no body, não dava para fazer cenários de funcionalidade inválidando algum desses campos, os cenários inserido foram os que julguei passiveis de contrato negativo.
